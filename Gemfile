@@ -2,6 +2,7 @@ source "http://rubygems.org"
 
 gem "railsless-deploy", "~> 1.0.2"
 gem "multi_json", "~> 1.3.6"
+gem "capistrano", "~> 2.0"
 
 group :development do
   gem "shoulda", ">= 0"
